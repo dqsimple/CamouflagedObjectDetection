@@ -1,0 +1,23 @@
+COD10K only —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.772; wFmeasure:0.575; MAE:0.047; adpEm:0.81; meanEm:0.813; maxEm:0.871; adpFm:0.606; meanFm:0.642; maxFm:0.678
+COD10K cat —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.761; wFmeasure:0.546; MAE:0.051; adpEm:0.795; meanEm:0.787; maxEm:0.861; adpFm:0.589; meanFm:0.616; maxFm:0.661
+COD10K mul —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.734; wFmeasure:0.45; MAE:0.069; adpEm:0.75; meanEm:0.747; maxEm:0.831; adpFm:0.532; meanFm:0.554; maxFm:0.619
+COD10K shortcut —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.776; wFmeasure:0.586; MAE:0.046; adpEm:0.816; meanEm:0.821; maxEm:0.871; adpFm:0.614; meanFm:0.65; maxFm:0.683
+COD10K shortcut1 —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.77; wFmeasure:0.574; MAE:0.048; adpEm:0.813; meanEm:0.812; maxEm:0.868; adpFm:0.608; meanFm:0.64; maxFm:0.676
+COD10K RF_mul —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.759; wFmeasure:0.537; MAE:0.052; adpEm:0.791; meanEm:0.786; maxEm:0.856; adpFm:0.583; meanFm:0.612; maxFm:0.654
+COD10K RF_mul1 —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.762; wFmeasure:0.535; MAE:0.053; adpEm:0.787; meanEm:0.793; maxEm:0.857; adpFm:0.58; meanFm:0.617; maxFm:0.66
+COD10K shortcut2 —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.77; wFmeasure:0.566; MAE:0.048; adpEm:0.807; meanEm:0.81; maxEm:0.869; adpFm:0.603; meanFm:0.637; maxFm:0.676
+COD10K RRB1+shortcut —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.774; wFmeasure:0.594; MAE:0.046; adpEm:0.827; meanEm:0.822; maxEm:0.872; adpFm:0.626; meanFm:0.655; maxFm:0.682
+COD10K RRB2 —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.775; wFmeasure:0.579; MAE:0.047; adpEm:0.81; meanEm:0.817; maxEm:0.869; adpFm:0.608; meanFm:0.644; maxFm:0.68
+COD10K RRB2+shortcut —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
+Smeasure:0.701; wFmeasure:0.371; MAE:0.087; adpEm:0.706; meanEm:0.682; maxEm:0.802; adpFm:0.483; meanFm:0.481; maxFm:0.571
+COD10K RRB1 —µ¡∑Õº∆¨4040 ≤‚ ‘Õº∆¨2026 
